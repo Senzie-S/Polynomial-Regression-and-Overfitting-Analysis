@@ -1,5 +1,5 @@
 '''
-This is Homework 1 in COMP4220-Machine Learning 
+COMP4220-Machine Learning 
 University of Massachusetts Lowell
 '''
 import numpy as np
